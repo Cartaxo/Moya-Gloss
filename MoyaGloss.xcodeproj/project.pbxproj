@@ -16,10 +16,8 @@
 		B0273A881EB18AB70015B91D /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B01E39751CC451B8009D9FC9 /* Alamofire.framework */; };
 		B0273A891EB18AB70015B91D /* Gloss.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B01E39761CC451B8009D9FC9 /* Gloss.framework */; };
 		B0273A8A1EB18AB70015B91D /* Moya.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B01E39771CC451B8009D9FC9 /* Moya.framework */; };
-		B0273A8B1EB18AB70015B91D /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B01E397A1CC451B8009D9FC9 /* Result.framework */; };
 		B0273A8C1EB18AEF0015B91D /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B01E39751CC451B8009D9FC9 /* Alamofire.framework */; };
 		B0273A8D1EB18AEF0015B91D /* Gloss.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B01E39761CC451B8009D9FC9 /* Gloss.framework */; };
-		B0273A8E1EB18AEF0015B91D /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B01E397A1CC451B8009D9FC9 /* Result.framework */; };
 		B0273A8F1EB18AEF0015B91D /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B01E397B1CC451B8009D9FC9 /* RxCocoa.framework */; };
 		B0273A901EB18AEF0015B91D /* RxMoya.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B01E397C1CC451B8009D9FC9 /* RxMoya.framework */; };
 		B0273A911EB18AEF0015B91D /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B01E397D1CC451B8009D9FC9 /* RxSwift.framework */; };
@@ -31,17 +29,14 @@
 		B0273A981EB18B1C0015B91D /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E61571EA15F4C00E2DC19 /* Alamofire.framework */; };
 		B0273A991EB18B1C0015B91D /* Gloss.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E61581EA15F4D00E2DC19 /* Gloss.framework */; };
 		B0273A9A1EB18B1C0015B91D /* Moya.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E61591EA15F4D00E2DC19 /* Moya.framework */; };
-		B0273A9B1EB18B1C0015B91D /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E615A1EA15F4D00E2DC19 /* Result.framework */; };
 		B0273A9C1EB18B330015B91D /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E61571EA15F4C00E2DC19 /* Alamofire.framework */; };
 		B0273A9D1EB18B330015B91D /* Gloss.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E61581EA15F4D00E2DC19 /* Gloss.framework */; };
-		B0273A9E1EB18B330015B91D /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E615A1EA15F4D00E2DC19 /* Result.framework */; };
 		B0273A9F1EB18B330015B91D /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E61721EA1611000E2DC19 /* RxCocoa.framework */; };
 		B0273AA01EB18B330015B91D /* RxMoya.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E61731EA1611000E2DC19 /* RxMoya.framework */; };
 		B0273AA11EB18B330015B91D /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E61741EA1611000E2DC19 /* RxSwift.framework */; };
 		B0273AA21EB18B430015B91D /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E61571EA15F4C00E2DC19 /* Alamofire.framework */; };
 		B0273AA31EB18B430015B91D /* Gloss.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E61581EA15F4D00E2DC19 /* Gloss.framework */; };
 		B0273AA41EB18B430015B91D /* ReactiveMoya.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E618E1EA1620200E2DC19 /* ReactiveMoya.framework */; };
-		B0273AA51EB18B430015B91D /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E90E615A1EA15F4D00E2DC19 /* Result.framework */; };
 		B0273AA71EB18B440015B91D /* ReactiveSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0273AA61EB18B440015B91D /* ReactiveSwift.framework */; };
 		B0889DD91CF950E000EB48EA /* Response+Gloss.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01E39491CC44A9A009D9FC9 /* Response+Gloss.swift */; };
 		B0889DDA1CF950E100EB48EA /* Response+Gloss.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01E39491CC44A9A009D9FC9 /* Response+Gloss.swift */; };
@@ -102,7 +97,6 @@
 				B0273A881EB18AB70015B91D /* Alamofire.framework in Frameworks */,
 				B0273A891EB18AB70015B91D /* Gloss.framework in Frameworks */,
 				B0273A8A1EB18AB70015B91D /* Moya.framework in Frameworks */,
-				B0273A8B1EB18AB70015B91D /* Result.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,7 +106,6 @@
 			files = (
 				B0273A8C1EB18AEF0015B91D /* Alamofire.framework in Frameworks */,
 				B0273A8D1EB18AEF0015B91D /* Gloss.framework in Frameworks */,
-				B0273A8E1EB18AEF0015B91D /* Result.framework in Frameworks */,
 				B0273A8F1EB18AEF0015B91D /* RxCocoa.framework in Frameworks */,
 				B0273A901EB18AEF0015B91D /* RxMoya.framework in Frameworks */,
 				B0273A911EB18AEF0015B91D /* RxSwift.framework in Frameworks */,
@@ -138,7 +131,6 @@
 				B0273A981EB18B1C0015B91D /* Alamofire.framework in Frameworks */,
 				B0273A991EB18B1C0015B91D /* Gloss.framework in Frameworks */,
 				B0273A9A1EB18B1C0015B91D /* Moya.framework in Frameworks */,
-				B0273A9B1EB18B1C0015B91D /* Result.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,7 +140,6 @@
 			files = (
 				B0273A9C1EB18B330015B91D /* Alamofire.framework in Frameworks */,
 				B0273A9D1EB18B330015B91D /* Gloss.framework in Frameworks */,
-				B0273A9E1EB18B330015B91D /* Result.framework in Frameworks */,
 				B0273A9F1EB18B330015B91D /* RxCocoa.framework in Frameworks */,
 				B0273AA01EB18B330015B91D /* RxMoya.framework in Frameworks */,
 				B0273AA11EB18B330015B91D /* RxSwift.framework in Frameworks */,
@@ -163,7 +154,6 @@
 				B0273AA21EB18B430015B91D /* Alamofire.framework in Frameworks */,
 				B0273AA31EB18B430015B91D /* Gloss.framework in Frameworks */,
 				B0273AA41EB18B430015B91D /* ReactiveMoya.framework in Frameworks */,
-				B0273AA51EB18B430015B91D /* Result.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -490,6 +480,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = B01E39311CC44A42009D9FC9;
@@ -564,7 +555,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "/usr/local/bin/carthage copy-frameworks";
+			shellScript = "/usr/local/bin/carthage copy-frameworks\n";
 		};
 		B091817D1D35D51700B50DF2 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -577,7 +568,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "/usr/local/bin/carthage copy-frameworks";
+			shellScript = "/usr/local/bin/carthage copy-frameworks\n";
 		};
 		B091817E1D35D52000B50DF2 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -590,7 +581,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "/usr/local/bin/carthage copy-frameworks";
+			shellScript = "/usr/local/bin/carthage copy-frameworks\n";
 		};
 		E90E61611EA15FBE00E2DC19 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -603,7 +594,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "/usr/local/bin/carthage copy-frameworks";
+			shellScript = "/usr/local/bin/carthage copy-frameworks\n";
 		};
 		E90E617B1EA1615F00E2DC19 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -736,7 +727,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -788,7 +779,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -814,12 +805,13 @@
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/Supporting Files/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.MoyaGloss;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -837,12 +829,13 @@
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/Supporting Files/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.MoyaGloss;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -860,12 +853,12 @@
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/Supporting Files/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.RxMoyaGloss;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -883,12 +876,12 @@
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/Supporting Files/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.RxMoyaGloss;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -906,12 +899,12 @@
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/Supporting Files/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.ReactiveMoyaGloss;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -929,12 +922,12 @@
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/Supporting Files/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.ReactiveMoyaGloss;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -956,12 +949,14 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = "$(SRCROOT)/Supporting Files/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.MoyaGloss;
 				PRODUCT_NAME = MoyaGloss;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -983,12 +978,14 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = "$(SRCROOT)/Supporting Files/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.MoyaGloss;
 				PRODUCT_NAME = MoyaGloss;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -1010,6 +1007,7 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = "RxMoyaGloss-macOS/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.RxMoyaGloss;
@@ -1017,7 +1015,7 @@
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -1039,13 +1037,14 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = "RxMoyaGloss-macOS/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.RxMoyaGloss;
 				PRODUCT_NAME = RxMoyaGloss;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -1067,6 +1066,7 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = "ReactiveMoyaGloss-macOS/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.ReactiveMoyaGloss;
@@ -1074,7 +1074,7 @@
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -1096,13 +1096,14 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = "ReactiveMoyaGloss-macOS/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = net.srogers.ReactiveMoyaGloss;
 				PRODUCT_NAME = ReactiveMoyaGloss;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
